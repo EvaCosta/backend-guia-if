@@ -1,0 +1,234 @@
+[
+    {
+        "provas": [
+            {
+                "titulo": "Prova T\u00e9cnico Integrado", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_Tecnico_Integrado.pdf"
+            }, 
+            {
+                "titulo": "Prova T\u00e9cnico Concomitante e Subsequente", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_Tecnico_Conc-Sub.pdf"
+            }, 
+            {
+                "titulo": "Prova Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_Graduacao.pdf"
+            }, 
+            {
+                "titulo": "Prova Metodologia da Educa\u00e7\u00e3o F\u00edsica Escolar", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_Metodologia_da_Educa\u00e7\u00e3o_F\u00edsica_Escolar.pdf"
+            }, 
+            {
+                "titulo": "Prova Sustentabilidade na Constru\u00e7\u00e3o Civil", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_Sustentabilidade_na_constru\u00e7\u00e3o_civil.pdf"
+            }, 
+            {
+                "titulo": "Prova Planejamento e Gest\u00e3o de \u00c1reas Naturais Protegidas", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_Planejamento_e_Gest\u00e3o.pdf"
+            }
+        ], 
+        "nome": "Processo Seletivo 2019/1"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Indica\u00e7\u00e3o do Livro Para a Prova de Gradua\u00e7\u00e3o - 2018/2", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/INDICA\u00c7\u00c3O DO LIVRO PARA A PROVA DE GRADUA\u00c7\u00c3O 2018-2_0.pdf"
+            }, 
+            {
+                "titulo": "Prova de Gradua\u00e7\u00e3o - 2018/2", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_gradua\u00e7\u00e3o_2018.2_0.pdf"
+            }, 
+            {
+                "titulo": "Prova Concomitante e Subsequente - 2018/2", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_conc_sub_2018.2_0.pdf"
+            }, 
+            {
+                "titulo": "Prova_gabarito_Habilidade_Espec\u00edfica - 2018/2", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_gabarito_Habilidade_Espec\u00edfica_2018.2_0.pdf"
+            }
+        ], 
+        "nome": "Processo Seletivo 2018/2"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova T\u00e9cnico Con/Sub", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Edital n\u00ba 032-2017 CHAMADA P\u00daBLICA - PROEJA 2018.1_0.pdf"
+            }, 
+            {
+                "titulo": "Prova T\u00e9cnico Integrado ", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Integrado - com capa_0.pdf"
+            }, 
+            {
+                "titulo": "Prova - Habilidade Espec\u00edfica ", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Habilidade espec\u00edfica para divulga\u00e7\u00e3o_0.pdf"
+            }, 
+            {
+                "titulo": "Prova Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Gradua\u00e7\u00e3o - com capa_0.pdf"
+            }
+        ], 
+        "nome": "Processo Seletivo 2018/1"
+    }, 
+    {
+        "provas": [], 
+        "nome": "COPESE - Processo Seletivo 2017/2"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_de_graduacao_2017_1.pdf"
+            }, 
+            {
+                "titulo": "Prova Concomitantes e Subsequentes Prova Objetiva 2017-1", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova Concomitantes e Subsequentes Prova Objetiva 2017-1_0.pdf"
+            }, 
+            {
+                "titulo": "Prova Integrado 2017-1", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova Integrado 2017-1_0.pdf"
+            }, 
+            {
+                "titulo": "Prova Habilidade Espec\u00edfica 2017-1", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova Habilidade Espec\u00edfica 2017-1_0.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo 2017/1"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova dos Cursos de Gradua\u00e7\u00e3o 2016-02", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova dos Cursos de Gradua\u00e7\u00e3o 2016-02_0.pdf"
+            }, 
+            {
+                "titulo": "Prova dos Cursos T\u00e9cnicos Concomitantes e Subsequentes 2016-02", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova dos Cursos T\u00e9cnicos Concomitantes e Subsequentes 2016-02_0.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo 2016/2"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_graduacao_5.pdf"
+            }, 
+            {
+                "titulo": "Prova T\u00e9cnico Concomitante", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_tecnico_concomitante.pdf"
+            }, 
+            {
+                "titulo": "Prova T\u00e9cnico Integrado", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_tecnico_integrado.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo 2016/1"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova Cursos de Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_graduacao_4.pdf"
+            }, 
+            {
+                "titulo": "Prova Cursos T\u00e9cnicos Presenciais", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_concomitante_2.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo 2015/2"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova objetiva  - Cursos T\u00e9cnicos Concomitante/Subsequente", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_concomitante_0.pdf"
+            }, 
+            {
+                "titulo": "Prova objetiva  - Cursos T\u00e9cnicos Integrados", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_integrado_1.pdf"
+            }, 
+            {
+                "titulo": "Prova objetiva  - Cursos de Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_graduacao_2.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo - 2015/1"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos Presenciais e a Dist\u00e2ncia", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_tecnico_0.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos de Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_graduacao_0.pdf"
+            }
+        ], 
+        "nome": "COPESE - Edi\u00e7\u00e3o 2014 - 2\u00ba semestre"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos a Dist\u00e2ncia", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_concomitante_ead.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos a Dist\u00e2ncia - Matias Barbosa", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_ead_matias.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos Concomitantes/Subsequentes", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_concomitante_presencial.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos Integrados", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/Prova_integrado.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos de Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_superior_0.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo - 2014/1"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos Presenciais", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_tecnico.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos a Dist\u00e2ncia", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_ead.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos Superiores de Gradua\u00e7\u00e3o", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_graduacao.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo - 2013/2"
+    }, 
+    {
+        "provas": [
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos Presenciais - Concomitantes/Subsequentes", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_concomitante_subsequente_ead.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos Presenciais Modalidade Integrado", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_integrado.pdf"
+            }, 
+            {
+                "titulo": "Prova - Cursos T\u00e9cnicos a Dist\u00e2ncia ", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_concomitante_subsequente_ead_0.pdf"
+            }, 
+            {
+                "titulo": "Prova - Superior de Gradua\u00e7\u00e3o Presencial", 
+                "link": "https://copese.ifsudestemg.edu.br/sites/default/files/prova_superior.pdf"
+            }
+        ], 
+        "nome": "COPESE - Processo Seletivo - 2013/1"
+    }
+]
